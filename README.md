@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jpraynaud
-- 👀 I’m interested in Blockchain & Cryptography & AI/ML
-- 🌱 I’m currently learning Rust & Keras/TensorFlow & ZK Proofs
+- 👀 I’m interested in Blockchain & Cryptography, AI/ML and Quantum Computing
 
 <!---
 - 💞️ I’m looking to collaborate on ...
